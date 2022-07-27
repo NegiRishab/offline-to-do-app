@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/offline-to-do-app/static/css/main.f836b7aa.css",
-    "main.js": "/offline-to-do-app/static/js/main.26a1db38.js",
+    "main.js": "/offline-to-do-app/static/js/main.97fcf944.js",
     "index.html": "/offline-to-do-app/index.html",
     "main.f836b7aa.css.map": "/offline-to-do-app/static/css/main.f836b7aa.css.map",
-    "main.26a1db38.js.map": "/offline-to-do-app/static/js/main.26a1db38.js.map"
+    "main.97fcf944.js.map": "/offline-to-do-app/static/js/main.97fcf944.js.map"
   },
   "entrypoints": [
     "static/css/main.f836b7aa.css",
-    "static/js/main.26a1db38.js"
+    "static/js/main.97fcf944.js"
   ]
 }
