@@ -1,0 +1,31 @@
+
+.lisChild{
+    height: 10vh;
+    width: 70%;
+   
+    margin-left: 10vw;
+    margin-top: 1vh;
+    display: flex;
+
+}
+.lisChild p{
+    margin-left: 42px;
+    font-size: 25px;
+}
+.lisChild input{
+    margin-top: 38px;
+}
+.through{
+    margin-left: 42px;
+    font-size: 25px;
+    text-decoration: line-through;
+}
+@media only screen and (max-width: 450px) {
+    .lisChild p{
+        margin-left: 42px;
+        font-size: 17px;
+    }
+    .lisChild input{
+        margin-top: 21px;
+    }
+}

@@ -1,0 +1,68 @@
+.addContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: blue;
+    height: 10vh;
+    align-items: center;
+}
+.addContainer input{
+    width: 28vw;
+    height: 3.5vh;
+    background-color: lightblue;
+    border-radius: 12px;
+    border: 2px solid white;
+    padding: 5px;
+    font-size: 18px;
+
+}
+.addButton{
+    margin-left: 12px;
+    height: 4vh;
+    width: 9vw;
+    background-color: coral;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.addButton:hover{
+   background-color: red;
+}
+.clearbutton{
+    border-radius: 12px;
+    background-color: yellowgreen;
+    font-weight: bold;
+    height: 4vh;
+    width: 9vw;
+}
+.clearbutton:hover{
+    background-color: darkgreen;
+}
+@media only screen and (max-width: 450px) {
+    .addButton{
+        margin-left: 12px;
+        height: 4vh;
+        width: 10vw;
+        background-color: coral;
+        border-radius: 12px;
+        font-weight: bold;
+        font-size: 4px;
+    }
+    .clearbutton{
+        border-radius: 12px;
+        background-color: yellowgreen;
+        font-weight: bold;
+        height: 4vh;
+        width: 10vw;
+        font-size: 4px;
+    }
+    .addContainer input{
+        width: 21vw;
+        height: 1.5vh;
+        background-color: lightblue;
+        border-radius: 12px;
+        border: 2px solid white;
+        padding: 5px;
+        font-size: 18px;
+    
+    }
+  }
